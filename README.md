@@ -1,6 +1,6 @@
 # Hi there 👋
-## Master's Project - Functional annotation and structure prediction of hypothetical proteins in ___Deinococcus radiodurans___ to understand their role in extreme enviornment.
-## Graduation Project - Understanding the Genome of Plastic Degrading Bacteria.
+### Master's Project "Functional annotation and structure prediction of hypothetical proteins in ___Deinococcus radiodurans___ to understand their role in extreme environment."
+### Graduation Project - "Understanding the Genome of Plastic Degrading Bacteria."
 
 ### I'm currently working on Epilepsy disease prediction through an EEG report of a patient using ML.
 
