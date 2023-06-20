@@ -1,5 +1,11 @@
 ### Hi there 👋
+## Master's Project - Functional annotation and structure prediction of hypothetical proteins in ___Deinococcus radiodurans___ to understand their role in extreme enviornment.
+## Graduation Project - Understanding the Genome of Plastic Degrading Bacteria.
 
+# I'm currently working on Epilepsy disease prediction through an EEG report of a patient using ML.
+
+# Ask me about anything related to whatever you want.
+#  Fun fact about me is I find great joy and tranquility in gazing at flowers, and being immersed in their beautiful presence brings me immense happiness.
 <!--
 **Julimooli/Julimooli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
