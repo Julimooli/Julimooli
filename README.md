@@ -1,5 +1,5 @@
 # Hi there 👋
-## I have made a script using which user can explore Bipartite networks the script is in R language.  (https://github.com/hegde-lab/Virus-host-interaction-network)
+## I have written a script in R that allows users to explore bipartite networks. You can find the script on GitHub at this link: https://github.com/hegde-lab/Virus-host-interaction-network.
 
 ### Master's Project "Functional annotation and structure prediction of hypothetical proteins in ___Deinococcus radiodurans___ to understand their role in the extreme environment."
 ### Graduation Project - "Understanding the Genome of Plastic Degrading Bacteria."
